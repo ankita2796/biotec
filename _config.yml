@@ -1,0 +1,5 @@
+markdown: redcarpet
+baseurl: /biotech
+encoding: UTF-8
+
+exclude: ['README.md']
